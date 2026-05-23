@@ -1,0 +1,14 @@
+Reporte de productos
+
+Codigo: 1234
+Nombre: Vasos
+Precio: 40
+Stock: 20
+Vendidos: 40
+----------------------
+Codigo: 1244
+Nombre: Pachones
+Precio: 70
+Stock: 20
+Vendidos: 10
+----------------------
